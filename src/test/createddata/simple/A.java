@@ -1,5 +1,9 @@
 package simple;
 
 public class A{
-void foo(Type1 arg) {}
+Int i;
+void f(Int a) {
+    
+}
+
 }
